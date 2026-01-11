@@ -1,2 +1,2 @@
 # Slurm
-Various Slurm utilities
+Various Slurm utilities that I have written.
